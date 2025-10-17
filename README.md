@@ -1,0 +1,2 @@
+# parkur
+mezuniyet projem
